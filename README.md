@@ -1,3 +1,3 @@
 # project
-movie recommendation machine learning base porject
+movie recommendation machine learning base project
 
